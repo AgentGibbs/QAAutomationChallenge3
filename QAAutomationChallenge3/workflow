@@ -1,0 +1,16 @@
+Workflow:
+
+Look at the JSON objects and get the first menuName object
+find the menu item that matches it
+hover on it
+pass to clickLink
+
+
+
+clickLin(menuItem)
+hover on the first menu item
+click it
+verify it
+go back to homepage 
+
+keep going

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+		<mainMenu>
+			<menuItem>
+				<menuName>Plan your trip</menuName>
+				<pageTitle>All Services - Ski Utah</pageTitle>
+				<pageURL>https://www.skiutah.com/members/listing</pageURL>
+			
+				<subMenu>
+					<menuName>Activities</menuName>
+					<pageTitle>Activities - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Activities</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Food + Drink</menuName>
+					<pageTitle>Food and Drink - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Food+and+Drink</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Lodging</menuName>
+					<pageTitle>Lodging - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Lodging</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Retail + Rental</menuName>
+					<pageTitle>Retail / Rental - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Retail+%252F+Rental</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Reservation Experts</menuName>
+					<pageTitle>Reservation Experts - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Reservation+Experts</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Ski Resorts</menuName>
+					<pageTitle>Resort - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Resort</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Ski School</menuName>
+					<pageTitle>Ski School - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Ski+School</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Transportation</menuName>
+					<pageTitle>Transportation - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/Transportation</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Utah Events</menuName>
+					<pageTitle>SKI AND SNOWBOARD THE GREATEST SNOW ON EARTH® - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/type/events-search</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>photos</menuName>
+					<pageTitle>photos - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/photos</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>videos</menuName>
+					<pageTitle>videos - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/videos</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>STORIES</menuName>
+					<pageTitle>Read about the latest happenings on the slopes - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/blog</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Compare REsorts</menuName>
+					<pageTitle>Resort Comparison - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/resorts/compare+resorts</pageURL>
+				</subMenu>
+			</menuItem>
+		</mainMenu>
+		<mainMenu>
+			<menuItem>
+				<menuName>Resorts &#038; snow</menuName>
+				<pageTitle>GEt the official utah snow report - Ski Utah</pageTitle>
+				<pageURL>https://www.skiutah.com/snowreport</pageURL>
+			
+				<subMenu>
+					<menuName>Resort comparison</menuName>
+					<pageTitle>resort comparison - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/resorts/compare-resorts?_ct=Menu%20Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Alta</menuName>
+					<pageTitle> Alta- Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/Alta?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Beaver Mountain</menuName>
+					<pageTitle>Beaver Mountain - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/beaver-mountain?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Brian head</menuName>
+					<pageTitle>brian head - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/brian-head?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Brighton</menuName>
+					<pageTitle>Brighton - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/Brighton?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Cherry Peak</menuName>
+					<pageTitle>Cherry Peak - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/cherry?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>deer valley</menuName>
+					<pageTitle>deer valley - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/deer-valley?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>eagle point</menuName>
+					<pageTitle>eagle point - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/eagle-point?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>nordic valley</menuName>
+					<pageTitle>nordic valley - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/nordic valley?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>pARK cITY</menuName>
+					<pageTitle>pARK cITY - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/pARK-cITY?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>powder mountain</menuName>
+					<pageTitle>powder mountain - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/powder-mountain?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>snowbasin</menuName>
+					<pageTitle>snowbasin - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/snowbasin?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>snowbird</menuName>
+					<pageTitle>snowbird - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/snowbird?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>solitude</menuName>
+					<pageTitle>solitude - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/solitude?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>sundance</menuName>
+					<pageTitle>sundance - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/sundance?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Cross Country - Nordic locations</menuName>
+					<pageTitle>Activities - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing?filter-sub-category-select=Nordic+%2F+Cross+Country&filter-category-select=Activities&_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>snow report</menuName>
+					<pageTitle>GEt the official utah snow report - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/snowreport?_ct=menu+Bar</pageURL>
+					</subMenu>
+				<subMenu>
+					<menuName>Mobile app $ TV display</menuName>
+					<pageTitle>GEt the utah snow report - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/resorts/get-mobile-snow-updates?_ct=Menu%20Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>live mountain cams</menuName>
+					<pageTitle>live mountain cams - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/view-mountain-cams?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>printable snow report</menuName>
+					<pageTitle>SKI AND SNOWBOARD THE GREATEST SNOW ON EARTH® - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/print-snow-report?_ct=Menu+Bar</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>All trail maps</menuName>
+					<pageTitle>view trail maps for each ski resort - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/resorts/utah-trail-map-mosiac?_ct=Menu%20Bar</pageURL>
+				</subMenu>
+			</menuItem>
+		</mainMenu>
+		<mainMenu>
+			<menuItem>
+				<menuName>STORIES</menuName>
+				<pageTitle>Read about the latest happenings on the slopes - Ski Utah</pageTitle>
+				<pageURL>https://www.skiutah.com/blog</pageURL>
+			</menuItem>
+		</mainMenu>
+		<mainMenu>
+
+			<menuItem>
+				<menuName>Deals</menuName>
+				<pageTitle>SKI AND SNOWBOARD THE GREATEST SNOW ON EARTH® - ski utah</pageTitle>
+				<pageURL>https://www.skiutah.com/deals-search</pageURL>
+			
+				<subMenu>
+					<menuName>All Deals</menuName>
+					<pageTitle>SKI AND SNOWBOARD THE GREATEST SNOW ON EARTH® - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/deals-search</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>lodging</menuName>
+					<pageTitle>SKI AND SNOWBOARD THE GREATEST SNOW ON EARTH® - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/deals-search/type/Lodging</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>RETAILS &#038; Rentals</menuName>
+					<pageTitle>SKI AND SNOWBOARD THE GREATEST SNOW ON EARTH® - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/deals-search/type/Retail+%252F+Rental</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Transportation</menuName>
+					<pageTitle>transportation - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/deals-search/type/Transportation</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>learn to ski program</menuName>
+					<pageTitle>learn to ski &#038; snowboard month - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/deals/learn-to-ski-and-snowboard</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>beginners</menuName>get deals for beginner skiers and snowboarders - ski utah
+					<pageURL>https://www.skiutah.com/deals/deals-for-beginner-skiers-and-snowboarders</pageURL>
+				</subMenu>
+		</menuItem>
+		</mainMenu>
+		<mainMenu>
+
+			<menuItem>
+				<menuName>Passes</menuName>
+				<pageTitle>2016-17 season passes - ski utah</pageTitle>
+				<pageURL>https://www.skiutah.com/passes/resort-season-passes</pageURL>
+				<subMenu>
+					<menuName>Purchase utah lift tickets</menuName>
+					<pageTitle>Purchase utah lift tickets - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/passes/resort-lift-tickets</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>5th &#038; 6th grade passport</menuName>
+					<pageTitle>The ski utah 5th &#038; 6th grade passport - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/passes/passports</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Ski Utah Yeti pass</menuName>
+					<pageTitle>Ski Utah Yeti pass - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/passes/yeti-pass</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>buy the silver and gold passes</menuName>
+					<pageTitle>silver and gold passes - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/passes/gold-and-silver-passes</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Passes</menuName>
+					<pageTitle>2016-17 season passes - ski utah</pageTitle>
+					<pageURL>https://www.skiutah.com/passes/resort-season-passes</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>military and senior day ski pass prices</menuName>
+					<pageTitle>military &#038; senior day pass prices - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/passes/military-senior</pageURL>
+				</subMenu>
+			</menuItem>
+		</mainMenu>
+		<mainMenu>
+			<menuItem>
+				<menuName>explore</menuName>
+				<pageTitle>Utah areas 101 - Ski Utah</pageTitle>
+				<pageURL>https://www.skiutah.com/explore/utah-regions-101</pageURL>
+				<subMenu>
+					<menuName>stories - photos - videos</menuName>
+					<pageTitle>Read about the latest happenings on the slopes - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/blog</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>interconnect adventure tour</menuName>
+					<pageTitle>the interconnect tour - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/the-interconnect-tour</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Utah areas 101</menuName>
+					<pageTitle>Utah areas 101 - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/utah-regions-101</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>getting to the utah resorts</menuName>
+					<pageTitle> - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/access</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>snow</menuName>
+					<pageTitle>snow - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/snow</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>activities</menuName>
+					<pageTitle>activities - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/activities</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Food + Drink</menuName>
+					<pageTitle>Food and Drink - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/food-and-drinks</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>lodging</menuName>
+					<pageTitle>lodging - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/lodging</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>backcountry skiing</menuName>
+					<pageTitle>utah backcountry - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/utah-backcountry</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>terrain parks</menuName>
+					<pageTitle>terrain parks - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/utah-terrain-parks</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>ski utah magazine</menuName>
+					<pageTitle>ski utah magazine - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/resources/ski-utah-magazine</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>enewsletter &#038; snowmail</menuName>
+					<pageTitle>SIGN UP FOR OUR NEWSLETTER - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/subscription-manager</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>Compare all resorts</menuName>
+					<pageTitle>Resort Comparison - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/resorts/compare+resorts</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>real estate</menuName>
+					<pageTitle>all services - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/members/listing/subcategory/Real+Estate</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>ski bus</menuName>
+					<pageTitle>TICKET TO RIDE: UTAH UPGRADES SKI BUS SERVICE - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/blog/authors/erika/ticket-to-ride-uta-upgrades-ski-bus</pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>join ski utah</menuName>
+					<pageTitle>membership benefits - Ski Utah</pageTitle>
+					<pageURL></pageURL>
+				</subMenu>
+				<subMenu>
+					<menuName>ski utah membership</menuName>
+					<pageTitle>2015-16 ski utah membership - Ski Utah</pageTitle>
+					<pageURL>https://www.skiutah.com/explore/@@membership-search</pageURL>
+				</subMenu>
+			</menuItem>
+	</mainMenu>
+</root>
